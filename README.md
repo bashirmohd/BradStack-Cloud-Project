@@ -1,5 +1,5 @@
 
-# Welcome to the Bradstack OpenStack Install Scripts project on GitHub
+# Welcome to the University of Bradstack OpenStack project
 The main objective of the project is to deployed a customized OpenStack multi-node installation using the developed OpenStack installation toolkit, comprising of the Control, Compute and Network node where each node will be configured to have two network interfaces namely the external network and the management network used for connectivity of the nodes. 
 
 Each node will be  prepared and configured with the following services (Keystone, Glance, Cinder, Nova, Neutron), and several experiments such as (Pentest, Wireshark, network analysis using Packet analyser) can be conducted.
